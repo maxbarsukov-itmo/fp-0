@@ -1,0 +1,13 @@
+# IDE files
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Misc
+.DS_Store
+Thumbs.db
+.wakatime-project
